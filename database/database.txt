@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS login_user(user_id int NOT NULL AUTO_INCREMENT,profile varchar(255),PRIMARY KEY (user_id))
